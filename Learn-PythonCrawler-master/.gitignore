@@ -1,0 +1,6 @@
+
+*.xml
+*.iml
+*.xml___jb_tmp___
+*.pyc
+*.html
